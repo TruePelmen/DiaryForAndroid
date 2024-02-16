@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         val e = 1243
         val c = 12
         val d =123
+        val f = 12345
     }
 }
